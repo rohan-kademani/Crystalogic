@@ -46,8 +46,6 @@ font-size: 3rem;
 }
 .container .item1:hover{
    color: var(--highlight);
-   transform:scale(1.2);
-   transition-duration: 1s;
     }
 #profile{
     max-width: 100%; 
